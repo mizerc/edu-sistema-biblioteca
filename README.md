@@ -13,6 +13,11 @@ The system was first developed for Windows, then later adapted for macOS through
 
 A lot of improvement work to do here. This is super low priority, but I revisit it sometimes just for fun and to play with the old C language.
 
+## Branches
+
+- original => Contains the original files from 2012.
+- main => Contains a few improvements added later on.
+
 ## Future Improvements
 
 - Split the monolithic source into smaller, modular files
